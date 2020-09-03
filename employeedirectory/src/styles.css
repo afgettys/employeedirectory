@@ -1,0 +1,10 @@
+.table tbody tr:nth-child(2n + 1) {
+	background-color: #FFEEF4;
+}
+
+.jumbotron {
+	background-color:#ffff7f;
+	text-align-last: center;
+	color: #4ca64c
+	
+}
